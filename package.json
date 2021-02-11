@@ -12,6 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
-	"keywords": [ "freecodecamp", "related", "words" ],
+	},
+	"keywords": [ "freecodecamp", "related", "words" ]
 }
