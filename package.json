@@ -4,8 +4,7 @@
 	"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "^2.x.x"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
